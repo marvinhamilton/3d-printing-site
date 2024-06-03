@@ -1,0 +1,31 @@
+/* components/Header.module.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .logo a {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .navList {
+    display: flex;
+    list-style: none;
+  }
+  
+  .navItem {
+    margin-left: 1rem;
+  }
+  
+  .navItem a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
