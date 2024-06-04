@@ -1,7 +1,7 @@
 /* details/page.tsx */
 "use client";
 import PaymentForm, { PaymentDetails } from '../../components/PaymentForm';
-import Link from 'next/link';
+/* import Link from 'next/link'; */
 
 export default function Details() {
   const handleSubmit = (details: PaymentDetails) => {

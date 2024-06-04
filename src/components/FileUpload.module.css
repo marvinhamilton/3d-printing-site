@@ -1,0 +1,14 @@
+/* src/components/FileUpload.module.css */
+.dropzone {
+    border: 2px dashed #0070f3;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .dropzone p {
+    margin: 0;
+    color: #0070f3;
+  }
+  
